@@ -1,15 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/**
+* This program checks a positive integer satisfies the collatz conjecture. 
+*
+* Completion time: 0.25 Hours
+*
+* @author Daniel Eagy, Acuna
+* @version 3/12/2019
+*/
 
-/* 
- * File:   EagyCollatz.c
- * Author: deagy
- *
- * Created on March 12, 2019, 9:31 AM
- */
 
 #include <stdio.h>
 #include <stdlib.h>
